@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Python Programming, Microsoft Azure, Networking, Database Management System,MySQL**
 
-- 📫 How to reach me <a href="Dilshadahmad8877@outlook.com">Kindly Mail me regarding any query</a>
+- 📫 How to reach me **Dilshadahmad8877@outlook.com**
 
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rR4wdqHOX0Mak7DrkxdAzmx7tTywjrei/view?usp=sharing" style="text-decoration: none" target="_blank">CV/Resume </a>
