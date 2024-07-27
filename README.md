@@ -15,7 +15,7 @@
 - 📫 How to reach me **Dilshadahmad8877@outlook.com**
 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1rR4wdqHOX0Mak7DrkxdAzmx7tTywjrei/view?usp=sharing" style="text-decoration: none" target="_blank">CV/Resume </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1R2EZlvYPtt2VPRtCma1_2C3z4Se5LrtV/view?usp=sharing" style="text-decoration: none" target="_blank">CV/Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
