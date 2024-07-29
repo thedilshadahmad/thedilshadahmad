@@ -1,5 +1,3 @@
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/thedilshadahmad" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @thedilshadahmad on GitHub">Follow @thedilshadahmad</a>
 <h1 align="center">Hello 👋, I am Dilshad Ahmad</h1>
 <h3 align="center">An enthusiastic Software Engineer cum Web Developer</h3>
 <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="Coding" class="center" width="400" img align="right" >
