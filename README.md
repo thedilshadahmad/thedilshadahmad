@@ -1,3 +1,9 @@
+<a href="https://github.com/thedilshadahmad" target="_blank">
+        <img src="https://img.shields.io/github/followers/thedilshadahmad?label=Follow%20me&style=social" alt="Follow on GitHub" />
+    </a>
+</body>
+</html>
+
 <h1 align="center">Hello 👋, I am Dilshad Ahmad</h1>
 <h3 align="center">An enthusiastic Software Engineer cum Web Developer</h3>
 <img src="https://granroyalleigarape.com.br/wp-content/uploads/2021/05/programmer.gif" alt="Coding" class="center" width="400" img align="right" >
